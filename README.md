@@ -1,3 +1,6 @@
+# Demo Branch
+This is the demo branch in which a change has been made
+
 # Example Edit
 This is an example of a change being committed
 
